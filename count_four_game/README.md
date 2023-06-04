@@ -1,4 +1,4 @@
-#Connect four game project
+# Connect four game project
 
 **Project goals** - here the goals are to choose a move that can connect four player signs by up, down, diagonal left and diagonal right to get the win.
 
