@@ -9,3 +9,5 @@ The functions are implemented so that they can be used repeatedly.
 
 **Screenshots** - 
 ![connect_four_game_python](https://github.com/PeterKeremidchiev/Small-Python-Projects/assets/123252235/b71f0c9a-6d38-4c11-b6a9-d3c0b2653b52)
+
+![connect_four_2](https://github.com/PeterKeremidchiev/Small-Python-Projects/assets/123252235/74736dc3-5fec-47f1-82f7-ba354f1e1a45)
