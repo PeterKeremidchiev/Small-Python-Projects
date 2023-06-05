@@ -7,4 +7,5 @@ The functions are implemented so that they can be used repeatedly.
 
 **Source code** - [Connect four game](https://github.com/PeterKeremidchiev/Small-Python-Projects/blob/main/count_four_game/connect_four_game.py)
 
-**Screenshots** - Uploading soon...
+**Screenshots** - 
+![connect_four_game_python](https://github.com/PeterKeremidchiev/Small-Python-Projects/assets/123252235/b71f0c9a-6d38-4c11-b6a9-d3c0b2653b52)
